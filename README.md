@@ -8,6 +8,7 @@ Urban Homes is a responsive real estate property management platform that allows
 
 ### **1. User Authentication**
 - **Simulated Login/Logout**: Users can log in and log out. Authentication is simulated for demonstration purposes without backend or database integration.
+** You can directly add your mail id and passward and you will get login.
 
 ### **2. Property Listing Page**
 - **Listings**: Displays detailed property information using dummy data.
